@@ -1,0 +1,19 @@
+{
+  "name": "tradbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ./src/index.js",
+    "start": "node ./src/index.js",
+    "deploy-command": "node ./src/util/deploy-commands.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.21",
+    "winston": "^3.8.2"
+  }
+}
