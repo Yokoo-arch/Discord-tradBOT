@@ -1,4 +1,6 @@
-//	Invite link: https://discord.com/api/oauth2/authorize?client_id=1083739753389760584&permissions=8&scope=bot%20applications.commands
+/*
+@Author Yokoo-arch
+*/
 //	Invisible characters:  
 
 //  Require the necessary discord.js classes
